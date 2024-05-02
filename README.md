@@ -293,15 +293,15 @@ Here we have chosen different model’s that can predict weather the customer wi
 
 •	Based on the analysis conducted and the model’s performance on the dataset, it can be concluded that the Liner Regression for predicting Monthly Charges and Simple & Multiple Logistic Regression and Decision Tree and Random Forest will be fit and suitable for weather the customer Churn or Not.
 
-•	**In Linear Regression we got the evaluation matrix which is RMSE we got RMSE Score is 5.86**
+•	**Linear Regression** : The evaluation matrix which is RMSE we got RMSE Score is 5.86.
 
-•	**In Logistic Regression we got the accuracy score 73%.**
+•	**Logistic Regression** : The accuracy score 73%.
 
-•	**In Multiple Logistic Regression** we got the accuracy score 80%. Which is higher than the simple logistic regression model.
+•	**Multiple Logistic Regression** : The accuracy score 80% in which is higher than the simple logistic regression model.
 
-•	**In Decision Tree** we got the accuracy score 76%. Which is Lower than the simple logistic regression model.
+•	**Decision Tree** : The accuracy score 76% in which is Lower than the simple logistic regression model.
 
-•	**In Random Forest** we got the accuracy score 78%. Which is Lower than the simple logistic regression model.
+•	**Random Forest** : The accuracy score 78% in which is Lower than the simple logistic regression model.
 
 # Thank You!
 
