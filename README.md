@@ -119,9 +119,7 @@ b. Build the model on train set and predict the values on test set
 c. Build the confusion matrix and calculate the accuracy
 
 ## Data Description
-![image](https://github.com/DrPoojaAbhijith/Customer-Churn-Analysis/assets/130547847/7c715efe-42bb-48c6-a679-fc72ee676261)
-
-
+![image](https://github.com/DrPoojaAbhijith/Analyzing-Customer-Churn/assets/160575120/b0567de5-567a-4939-9dae-58660bf8c692)
 
  
 ### Data Pre-processing steps and inspiration
@@ -299,33 +297,11 @@ Here we have chosen different model’s that can predict weather the customer wi
 
 •	**In Logistic Regression we got the accuracy score 73%.**
 
-•	And mentioned below other Classification Reports and Confusion Matrix
-
- ![image](https://github.com/DrPoojaAbhijith/Customer-Churn-Analysis/assets/130547847/42dd9787-4af9-4c97-ac6e-7b7baff57922)
-
-
-
-
 •	**In Multiple Logistic Regression** we got the accuracy score 80%. Which is higher than the simple logistic regression model.
-And mentioned below other Classification Reports and Confusion Matrix
-
- ![image](https://github.com/DrPoojaAbhijith/Customer-Churn-Analysis/assets/130547847/901582a6-f1a4-4b6f-b395-13956472111a)
-
 
 •	**In Decision Tree** we got the accuracy score 76%. Which is Lower than the simple logistic regression model.
-And mentioned below other Classification Reports and Confusion Matrix
-
- ![image](https://github.com/DrPoojaAbhijith/Customer-Churn-Analysis/assets/130547847/90643906-8b51-4073-bc58-8f3cb505e82c)
-
 
 •	**In Random Forest** we got the accuracy score 78%. Which is Lower than the simple logistic regression model.
-And mentioned below other Classification Reports and Confusion Matrix
-
-![image](https://github.com/DrPoojaAbhijith/Customer-Churn-Analysis/assets/130547847/5f1da74b-664f-4553-9fcb-4c5fad9d49d9)
-
- 
 
 # Thank You!
 
-
-![image](https://github.com/DrPoojaAbhijith/Analyzing-Customer-Churn/assets/160575120/11f92f99-b9ac-4913-ba60-a37a4dd9af2e)
