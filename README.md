@@ -18,7 +18,7 @@ A telecom company named “Neo” whose customers are churning out to its compet
 
 ## Project Objective
 
-![image](https://github.com/DrPoojaAbhijith/Analyzing-Customer-Churn/assets/160575120/9e4cd764-04fe-4ead-b492-37fc1b64efa8)
+![image](https://github.com/DrPoojaAbhijith/Analyzing-Customer-Churn/assets/160575120/11ef81c0-a6f3-491e-acf7-a75d61549b20)
 
 
 ## 1. Data Manipulation: 
