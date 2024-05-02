@@ -284,7 +284,7 @@ Here we have chosen different model’s that can predict weather the customer wi
 •	This allows them to handle both categorical and numerical data, making them versatile for a wide range of predictive tasks in various domains.
 
 
-5.	Random Forest 
+5.	**Random Forest** 
 •	Random Forest offers high predictive accuracy by averaging predictions from multiple decision trees, making it robust to overfitting. 
 •	It handles non-linear relationships well, provides feature importance insights, and is resilient to outliers and missing data. With its scalability, ability to handle large datasets, and no assumptions about data distribution, Random Forest is a versatile choice suitable for various machine learning tasks.
 
