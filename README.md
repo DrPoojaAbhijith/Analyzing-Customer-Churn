@@ -291,7 +291,7 @@ Here we have chosen different model’s that can predict weather the customer wi
 
 ## Conclusion
 
-•	Based on the analysis conducted and the model’s performance on the dataset, it can be concluded that the Liner Regression for predicting Monthly Charges and Simple & Multiple Logistic Regression and Decision Tree and Random Forest will be fit and suitable for weather the customer Churn or Not.
+•	Based on the analysis conducted and the model’s performance on the dataset, it can be concluded that the Linear Regression for predicting Monthly Charges and Simple & Multiple Logistic Regression and Decision Tree and Random Forest will be fit and suitable for weather the customer Churn or Not.
 
 •	**Linear Regression** : The evaluation matrix which is RMSE we got RMSE Score is 5.86.
 
